@@ -1,0 +1,33 @@
+F:\progetto 26-11-16\Progetto HTML\Progetto HTML\bin\Debug\Progetto HTML.exe.config
+E:\progetto 26-11-16\Progetto HTML\Progetto HTML\bin\Debug\Progetto HTML.exe.config
+E:\progetto 26-11-16\Progetto HTML\Progetto HTML\obj\Debug\Progetto HTML.csprojResolveAssemblyReference.cache
+E:\progetto 26-11-16\Progetto HTML\Progetto HTML\obj\Debug\Progetto_HTML.Form1.resources
+E:\progetto 26-11-16\Progetto HTML\Progetto HTML\obj\Debug\Progetto_HTML.Properties.Resources.resources
+E:\progetto 26-11-16\Progetto HTML\Progetto HTML\obj\Debug\Progetto HTML.csproj.GenerateResource.Cache
+E:\progetto 26-11-16\Progetto HTML\Progetto HTML\bin\Debug\Progetto HTML.exe
+E:\progetto 26-11-16\Progetto HTML\Progetto HTML\bin\Debug\Progetto HTML.pdb
+E:\progetto 26-11-16\Progetto HTML\Progetto HTML\obj\Debug\Progetto HTML.exe
+E:\progetto 26-11-16\Progetto HTML\Progetto HTML\obj\Debug\Progetto HTML.pdb
+F:\progetto 26-11-16\Progetto HTML\Progetto HTML\obj\Debug\Progetto HTML.exe
+F:\progetto 26-11-16\Progetto HTML\Progetto HTML\obj\Debug\Progetto HTML.pdb
+C:\Users\Lorenzo\Documents\Visual Studio 2012\Projects\progetto 26-11-16\Progetto HTML\Progetto HTML\bin\Debug\Progetto HTML.exe.config
+C:\Users\Lorenzo\Documents\Visual Studio 2012\Projects\progetto 26-11-16\Progetto HTML\Progetto HTML\obj\Debug\Progetto HTML.exe
+C:\Users\Lorenzo\Documents\Visual Studio 2012\Projects\progetto 26-11-16\Progetto HTML\Progetto HTML\obj\Debug\Progetto HTML.pdb
+C:\Users\Lorenzo\Documents\Visual Studio 2012\Projects\progetto 26-11-16\Progetto HTML\Progetto HTML\bin\Debug\Progetto HTML.exe
+C:\Users\Lorenzo\Documents\Visual Studio 2012\Projects\progetto 26-11-16\Progetto HTML\Progetto HTML\bin\Debug\Progetto HTML.pdb
+C:\Users\Lorenzo\Documents\Visual Studio 2012\Projects\progetto 26-11-16\Progetto HTML\Progetto HTML\obj\Debug\Progetto HTML.csprojResolveAssemblyReference.cache
+C:\Users\Lorenzo\Documents\Visual Studio 2012\Projects\progetto 26-11-16\Progetto HTML\Progetto HTML\obj\Debug\Progetto_HTML.Form1.resources
+C:\Users\Lorenzo\Documents\Visual Studio 2012\Projects\progetto 26-11-16\Progetto HTML\Progetto HTML\obj\Debug\Progetto_HTML.Properties.Resources.resources
+C:\Users\Lorenzo\Documents\Visual Studio 2012\Projects\progetto 26-11-16\Progetto HTML\Progetto HTML\obj\Debug\Progetto HTML.csproj.GenerateResource.Cache
+F:\Progetto HTML\Progetto HTML\bin\Debug\Progetto HTML.exe.config
+F:\Progetto HTML\Progetto HTML\obj\Debug\Progetto HTML.exe
+F:\Progetto HTML\Progetto HTML\obj\Debug\Progetto HTML.pdb
+F:\Progetto HTML\Progetto HTML\bin\Debug\Progetto HTML.exe
+F:\Progetto HTML\Progetto HTML\bin\Debug\Progetto HTML.pdb
+F:\Progetto HTML\Progetto HTML\obj\Debug\Progetto HTML.csprojResolveAssemblyReference.cache
+F:\Progetto HTML\Progetto HTML\obj\Debug\Progetto_HTML.Form1.resources
+F:\Progetto HTML\Progetto HTML\obj\Debug\Progetto_HTML.Properties.Resources.resources
+F:\Progetto HTML\Progetto HTML\obj\Debug\Progetto HTML.csproj.GenerateResource.Cache
+F:\progetto 26-11-16\Progetto HTML 2\Progetto HTML\bin\Debug\Progetto HTML.exe.config
+F:\progetto 26-11-16\Progetto HTML 2\Progetto HTML\obj\Debug\Progetto HTML.exe
+F:\progetto 26-11-16\Progetto HTML 2\Progetto HTML\obj\Debug\Progetto HTML.pdb
